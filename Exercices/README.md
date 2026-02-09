@@ -36,3 +36,6 @@ Projets Python (fichiers .py)
 - scrapy_demo: 09_scrapy_demo_exercices.md / 09_scrapy_demo_corrige.md
 - selenium_demo: 10_selenium_demo_exercices.md / 10_selenium_demo_corrige.md
 
+Exercices pratiques - Nettoyage de donnees
+- Exercices: 11_data_cleaning_exercices.md
+- Corrige: 11_data_cleaning_corrige.md

@@ -1,3 +1,57 @@
+
+Apercu
+
+Ce depot contient des notebooks de formation (Python, web scraping, APIs, threading, Scrapy, Selenium) et des mini projets associes.
+
+Notebooks disponibles
+
+01_file_management.ipynb
+- Gestion de fichiers, encodage, CSV, JSON, XML, generateurs.
+
+02_web_scrapping_base.ipynb
+- HTTP, requests, SQLAlchemy, BeautifulSoup.
+
+03_threading.ipynb
+- Threads, multiprocessing, asyncio, cache, bonnes pratiques reseau.
+
+04_api.ipynb
+- Auth, REST, retry, rate limiting, erreurs, logging, client API.
+
+05_scrapy.ipynb
+- Introduction Scrapy, spiders, pipelines, exports.
+
+06_selenium.ipynb
+- Selenium headless, usage manuel, integration Scrapy + Selenium.
+
+wikipedia.ipynb
+- Projet Wikipedia avec BeautifulSoup.
+
+genius_music_scraping.ipynb
+- Projet Genius (scraping de lyrics).
+
+Exercices
+
+Le dossier `Exercices` contient un set d exercices et un corrige par notebook et par projet.
+Voir `Exercices/README.md` pour la liste complete.
+
+Installation minimale
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Execution notebooks
+
+Ouvrir et executer les notebooks dans Jupyter ou PyCharm.
+
+Notes reseau
+
+Certains notebooks et demos font des appels reseau (JSONPlaceholder, example.com, Wikipedia, Genius, quotes.toscrape).
+Verifier les conditions d utilisation et respecter les delais.
+
+
 04_api.ipynb
 
 Notebook de formation sur les APIs : auth, REST, retry, rate limiting, erreurs, logging.
