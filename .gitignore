@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.dist/
+.build/
+.venv/
+venv/
+ENV/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local outputs / caches
+cache.pkl
+output.jsonl
+output.csv
+scrapy_items.json
+example_headless.png
+example.png
+
+# Databases
+*.db
+
+# Test artifacts
+.coverage
+pytest_cache/
+
